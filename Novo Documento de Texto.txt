@@ -1,0 +1,5 @@
+web.config tudo q esta relacionando a configuração do arquivo
+gerenciamento de pacotes package.config
+site.master é uma Master page = arquivo de configuração de interface
+tag importante contentPlaceHolder parte movel do site, area especifica para processar cada pagina
+webform with master page ja pega da master page
